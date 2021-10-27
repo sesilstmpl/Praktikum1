@@ -1,4 +1,5 @@
 # Praktikum1
+## Membuat Biodata
 
 Berikut cara membuat program input data menggunakan phyton.
 
@@ -18,7 +19,18 @@ Berikut cara membuat program input data menggunakan phyton.
 
 
 4. Lalu outputnya pun akan muncul 
+
 ![Gambar 4](Gambar/ss4.png)
+
+## Program Penjumlahan dan pembagian
+
+1. Terlebih dahulu buat input datanya seperti ini
+
+![Gambar 5](Gambar/ss5.png)
+
+2. Lalu hasilnya akan seperti ini
+
+![Gambar 6](Gambar/ss6.png)
 
 
 -SEKIAN-
